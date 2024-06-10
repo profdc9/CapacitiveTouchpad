@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "CapacitiveTouchpad")(type "KiCad")(uri "${KIPRJMOD}/CapacitiveTouchpad.pretty")(options "")(descr ""))
+)
